@@ -1,0 +1,17 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-28T23:54:38+08:00
+
+====== Toy ======
+创建日期 星期五 28 六月 2019
+
+===== 骨牌 =====
+{{./domino.jpg?width=400}}
+
+===== 七巧板 =====
+{{./tangram.jpg?width=400}}
+
+===== 迷宫 =====
+{{./maze.jpeg?width=200}}{{./maze001.jpeg?height=250}}
+
+

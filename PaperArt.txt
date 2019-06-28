@@ -1,0 +1,19 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-01-19T22:11:57+08:00
+
+====== PaperArt ======
+创建日期 星期六 19 一月 2019
+
+===== 小鸟 =====
+https://www.100how.com/diy/2019-01-12/11179.html
+{{./bird.jpeg?height=250}}
+
+===== 小狐狸 =====
+1. https://www.100how.com/tech/youer/2019-06-28/11451.html
+2. https://www.100how.com/tech/youer/2017-10-11/9969.html
+①{{./fox.jpg?width=400}}   ②{{./fox001.jpg?height=250}}
+
+===== 镂空五角星 =====
+https://www.100how.com/tech/youer/2019-06-28/11450.html
+{{./star.jpg?height=250}}

@@ -1,0 +1,72 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-26T19:12:16+08:00
+
+====== English ======
+创建日期 星期三 26 六月 2019
+
+===== 在线资源 =====
+1. https://freekidsbooks.org 提供免费绘本，每本都标明了适读年龄，可在线阅读（最好用PAD），也可以下载PDF。（可惜没有配音<==要什么自行车）
+2. http://www.brillkids.com 儿童阅读、数学、音乐
+3. http://www.starfall.com Phonics入门，里面很多互动小游戏，注意先让娃把游戏里面的词汇认识（看图会读）后再玩。最好有个PAD并配支点控笔。
+
+===== 影音资源 =====
+1. 语感启蒙2007[清华大学]视频及音频 %%% 入门级，强烈推荐
+2. Leap Frog 视频及音频 %%% 难度不一，字母工厂、三只小猪、圣诞节可以先看，其余靠后；缺点是没字幕，有些话自己都听不太明白；里面还有配套的PDF适合打印出来
+3. 小猪佩琪英文版，待搜索下载
+4. 小皮优优英文版，待搜索下载
+
+===== 玩具类 =====
+
+==== 字母磁性贴 ====
+{{./letters.jpg?height=250}}
+
+
+===== 已下载或需借阅 =====
+
+==== 3岁 ====
+1. little-goat_FKB_Bookdash %%% 小山羊找草吃  %%% Zotero
+2. colors-of-the-rainbow %%% 在故事中认颜色 %%% Zotero
+3. the-new-toy %%% 韵律歌谣 %%% Zotero
+4. hello_english_FKB %%% 对大自然说hello %%% Zotero
+5. I am a Bunny %%% 图片精美的四季故事 %%% 已购实体
+6. the-great-cake-contest_en_20181213 %%% 做各种各样的蛋糕 %%% Zotero
+7. three-little-pigs %%% 著名的三只小猪的故事，从难度上讲可以再大一点看，要配合Leap Frog动画一起看 %%% Zotero，绘本馆
+8. The-Kaptain-Uke-Book-of-Shapes %%% 认识形状和颜色 %%% Zotero
+9. The-Kaptain-Uke-Silly-ABC-Book %%% 每个字母对应一个单词和图片 %%% Zotero
+10. Taller and Smaller %%% 熊和狼比个子 %%% 绘本馆
+11. The Bird Feeder %%% 一只一只又一只，猫儿来了剩几只 %%% 绘本馆
+
+==== 4岁及以后 ====
+1. Explorer-Ellas-Magic-Forest %%% 讲述Ellas在魔法森林里遇见很多神奇动物的故事。文字比较多 %%% Zotero
+2. zanele-sees-numbers_english_FKB_20170208 %%% 到底什么是数字 %%% Zotero
+3. The-Little-Cloud %%% 一朵被太阳忽视的云的故事 %%% Zotero
+4. Little Mermaid %%% 美人鱼的故事，图片精美 %%% Zotero
+
+==== 青少年 ====
+1. 不列颠少儿百科全书 %%% 不算索引共12卷，天文地理花草虫鱼，我还是先自己学一下吧。。。 %%% Zotero
+
+==== 待整理 ====
+1岁至3岁
+* The Very Hungry Caterpillar——Eric Carle
+* Brown Bear， Brown Bear， What Do You See？——Bill Martin Jr.
+* Mr. Brown Can Moo！ Can You？——Dr. Seuss
+* Ten Little Ladybugs——Melanie Gerth
+* Big Red Barn——Margaret Wise Brown
+4-6岁：
+* The Polar Express——Chris Van Allsburg
+* The Snowman——Raymond Briggs
+* Tales of Mr. Pink-Whistle——Enid Blyton
+* The Cat in the Hat——Dr. Seuss
+* Clifford， the Big Red Dog——Norman Bridwell
+
+
+===== 父母教师读物 =====
+1. 不能错过的英语启蒙 %%% 这本书是讲教育理念的，最后一章还分享了很多学习资源 %%% Zotero
+2. Blend_Phonics %%% 一年级老师备课用书 %%% Zotero
+3. The Alphabet Letters, Sounds, Pictures and Words Book %%% 每个字母对应的Phonics图片，适合打印出来用。三四岁适用 %%% Zotero
+4. Teaching Phonics at Primary Level_2017 %%% 这是培训教师的吧 %%% Zotero
+5. Phonics_Aus_Catalogue %%% 澳大利亚Phonic读物广告，分级分系列推荐图书 %%% Zotero
+6. Letters_and_Sounds_-_DFES-00281-2007  %%% 培训教师用 %%% Zotero
+7. Literacy-teaching-guide-phonics %%% 教学参考用书 %%% Zotero
+8. English Through Pictures系列 %%% 简笔画的形式介绍英语，适合父母看完后讲给娃听 %%% Zotero
